@@ -35,3 +35,10 @@ ped_ids / ped_clientes / ped_productos / ped_cantidades / ped_estados
 
 - Al registrar un pedido se descuenta el stock automáticamente.
 - Al eliminar un pedido pendiente se devuelve el stock al inventario.
+
+  ##capturas
+  menu principal
+  <img width="370" height="267" alt="image" src="https://github.com/user-attachments/assets/1b07de62-5a61-404f-8c4a-3a3988974518" />
+   ver inventario
+  <img width="408" height="181" alt="image" src="https://github.com/user-attachments/assets/33f3f583-fa8f-4dce-b005-ab96f7062f8f" />
+
