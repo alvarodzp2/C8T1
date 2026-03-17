@@ -37,8 +37,12 @@ ped_ids / ped_clientes / ped_productos / ped_cantidades / ped_estados
 - Al eliminar un pedido pendiente se devuelve el stock al inventario.
 
   ##capturas
-  menu principal
+  Menu principal
   <img width="370" height="267" alt="image" src="https://github.com/user-attachments/assets/1b07de62-5a61-404f-8c4a-3a3988974518" />
-   ver inventario
+
+  
+  Ver inventario
   <img width="408" height="181" alt="image" src="https://github.com/user-attachments/assets/33f3f583-fa8f-4dce-b005-ab96f7062f8f" />
 
+  Editar producto
+  <img width="379" height="141" alt="image" src="https://github.com/user-attachments/assets/534b6aea-36df-4004-9c8a-7777afd75a45" />
